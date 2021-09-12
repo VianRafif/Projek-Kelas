@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #e2edff;
+  background-image: url(img/bg.jpeg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: right;
+}
+
+.jumbotron h1,
+.jumbotron {
+  font-family: viga;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+  font-weight: 400;
+}
+
+#Projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.projects {
+  text-transform: capitalize;
+}
